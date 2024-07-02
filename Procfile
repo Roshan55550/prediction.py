@@ -1,1 +1,1 @@
-worker: ./bin/prediction.py
+web: python prediction.py
