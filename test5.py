@@ -3,7 +3,7 @@ import time
 from threading import Thread, Event
 from telegram.ext import Updater, CommandHandler, Filters
 
-TOKEN = '7490911407:AAGrywqkXKD9MwtuN86NalqqgtBhOlo9FmU'
+TOKEN = '7388123945:AAEPN-9cslWEua3ro7njPzNTJxE1N0MD8Js'
 OWNER_USER_ID = '5732310517'
 
 # Global variables to control the message sending loop and channels list
