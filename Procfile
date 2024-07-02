@@ -1,1 +1,1 @@
-web: python prediction.py
+web: python test5.py
